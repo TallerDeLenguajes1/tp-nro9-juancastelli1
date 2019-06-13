@@ -5,3 +5,9 @@ C:\Users\Alumno\Desktop\TP09\TP09\CodeMorse\bin\Debug\CodeMorse.pdb
 C:\Users\Alumno\Desktop\TP09\TP09\CodeMorse\obj\Debug\CodeMorse.csprojResolveAssemblyReference.cache
 C:\Users\Alumno\Desktop\TP09\TP09\CodeMorse\obj\Debug\CodeMorse.exe
 C:\Users\Alumno\Desktop\TP09\TP09\CodeMorse\obj\Debug\CodeMorse.pdb
+C:\Users\Alumno\Desktop\TP09\VisualCode\CodeMorse\bin\Debug\CodeMorse.exe.config
+C:\Users\Alumno\Desktop\TP09\VisualCode\CodeMorse\obj\Debug\CodeMorse.exe
+C:\Users\Alumno\Desktop\TP09\VisualCode\CodeMorse\obj\Debug\CodeMorse.pdb
+C:\Users\Alumno\Desktop\TP09\VisualCode\CodeMorse\bin\Debug\CodeMorse.exe
+C:\Users\Alumno\Desktop\TP09\VisualCode\CodeMorse\bin\Debug\CodeMorse.pdb
+C:\Users\Alumno\Desktop\TP09\VisualCode\CodeMorse\obj\Debug\CodeMorse.csprojResolveAssemblyReference.cache
